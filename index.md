@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Data Science Interview Prep
 
-You can use the [editor on GitHub](https://github.com/Hishore/ds-interview-prep/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This will cover data science interview questions from "120 Data Science interview questions", and "Data_Science_Product_Questions", and real interview questions from various companies.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Q1 (Given a Dataset) Analyze this dataset and give me a model that can predict this response variable.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hishore/ds-interview-prep/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Start by fitting a simple model (multivariate regression, logistic regression), do some feature engineering accordingly, and then try some complicated models. Always split the dataset into train, validation, test dataset and use cross validation to check their performance.
+- Determine if the problem is classification or regression
+- Favor simple models that run quickly and you can easily explain.
+- Mention cross validation as a means to evaluate the model.
+- Plot and visualize the data.
