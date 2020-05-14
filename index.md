@@ -2,7 +2,7 @@
 
 This will cover data science interview questions from "120 Data Science interview questions", and "Data_Science_Product_Questions", and real interview questions from various companies.
 
-### Q1 (Given a Dataset) Analyze this dataset and give me a model that can predict this response variable.
+### Q1 [Predictive Modeling] (Given a Dataset) Analyze this dataset and give me a model that can predict this response variable.
 
 - Problem Determination -> Exploratory Analysis -> Data Cleaning -> Feature Engineering -> Modeling -> Evaluation
 - Determine if the problem is classification or regression
@@ -16,3 +16,9 @@ This will cover data science interview questions from "120 Data Science intervie
     - Scikit-Learn, XGBoost, LightGBM, CatBoost
 - Use cross validation as a means to evaluate the model
 - Favor simple models that run quickly and are easy to explain
+
+### Q2 [Programming] Write a function to calculate all possible assignment vectors of 2n users, where n users are assigned to group 0 (control), and n users are assigned to group 1 (treatment).
+
+- Idea 1: Use existing functions in python
+
+- Idea 2: Use a recursive approach to do it.
