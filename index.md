@@ -22,3 +22,15 @@ This will cover data science interview questions from "120 Data Science intervie
 - Idea 1: Use existing functions in python
 
 - Idea 2: Use a recursive approach to do it.
+
+### Q [Data Analysis] (Given a Dataset) Analyze this dataset and tell me what you can learn from it.
+
+- Understanding the goal
+- Data cleanning (outliner treatment, missing value imputation)
+- Exploratory analysis - visualizaitons (numerical values: scatter plot; categorical values: frequencies) to prevent future missteps, identify possible transformations needed
+- Confirm assumptions
+- Summary statistics (mean, median, mode, minimum value, maximum value, range, standard deviation, etc.)
+- Time series, geographic distribution
+- Design metrics that can achieve the goal
+- Synthesize results and think about additional data that can help
+- 
