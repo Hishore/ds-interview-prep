@@ -47,10 +47,29 @@ This will cover data science interview questions from "120 Data Science intervie
 ### Q [Product Metrics] What would be good metrics of success for an advertising-driven consumer product? (Buzzfeed, YouTube, Google Search, etc.) A service-driven consumer product? (Uber, Flickr, Venmo, etc.)
 
 - Pageviews, daily actives, CTR (Click-Through Rate), & CPC (Cost Per Click) are good metrics of success for an advertising-driven consumer product
-- Number of purchase & conversion rate are good metrics of success for a service-driven product
+- Number of purchases & conversion rate are good metrics of success for a service-driven product
 
 ### Q [Product Metrics] What would be good metrics of success for a productivity tool? (Evernote, Asana, Google Docs, etc.) A MOOC? (edX, Coursera, Udacity, etc.)
 
 - Daily actives, & conversion rate are good metrics of success for a productivity tool
-- Number of purchase, conversion rate, & completion rate are good metrics of success for a MOOC
+- Number of purchases, conversion rate, & completion rate are good metrics of success for a MOOC
 
+### Q [Product Metrics] What would be good metrics of success for an e-commerce product? (Etsy, Groupon, Birchbox, etc.) A subscription product? (Netflix, Birchbox, Hulu, etc.) Premium subscriptions? (OKCupid, LinkedIn, Spotify, etc.)
+
+- E-commerce:
+  - Conversion rate
+  - Number of purchases (Hourly/daily/weekly/monthly/quarterly/annual sales)
+  - Cost of goods sold
+  - Site visits
+  - Unique visitors versus returning visitors
+  - Customer service phone call count
+  - Time to resolution
+  - Inventory levels
+- Subscription
+  - Churn rate (possible indicator of customer dissatisfaction, cheaper and/or better offers from the competition, more successful sales and/or marketing by the competition, or reasons having to do with the customer life cycle)
+  - Customer acquisition cost
+  - ARPU (Average Revenue Per User)
+  - MRR (Monthly Recurring Revenue)
+  - LTV (Life Time Value)
+- Premium subscriptions
+  - subscription rate
