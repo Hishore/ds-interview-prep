@@ -39,3 +39,13 @@ This will cover data science interview questions from "120 Data Science intervie
 - R-squared is the proportion of the variance in the dependent variable that is predictable from the independent variable(s). It is a statistic used in the context of statistical models whose main purpose is either the prediction of future outcomes or the testing of hypotheses, on the basis of other related information. R-squared equals one minus the sum of squares of residules devided by the total sum of squares.
 - Adjusted R-squared could be better than R-squared because of its attempt to account for the phenomenon of the R-squared automatically and spuriously increasing when extra explanatory variables are added to the model.
 - AIC could also be better than R-squared because it penalizes the inclusion of additional variables to a model.
+
+### Q [Data Analysis] What is the curse of dimensionality? [WIP]
+
+- The curse of dimensionality refers to various phenomena that arise when analyzing and organizing data in high-dimensional spaces that do not occur in low-dimensional settings such as the three-dimensional physical space of everyday experience.
+
+### Q [Product Metrics] What would be good metrics of success for an advertising-driven consumer product? (Buzzfeed, YouTube, Google Search, etc.) A service-driven consumer product? (Uber, Flickr, Venmo, etc.)
+
+- Pageviews, daily actives, CTR (Click-Through Rate), & CPC (Cost Per Click) are good metrics of success for an advertising-driven consumer product
+- Number of purchase and conversion rate are good metrics of success for a service-driven product
+
