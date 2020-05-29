@@ -33,4 +33,9 @@ This will cover data science interview questions from "120 Data Science intervie
 - Time series, geographic distribution
 - Design metrics that can achieve the goal
 - Synthesize results and think about additional data that can help
-- 
+
+### Q [Data Analysis] What is R-squared? What are some other metrics that could be better than R-squared and why?
+
+- R-squared is the proportion of the variance in the dependent variable that is predictable from the independent variable(s). It is a statistic used in the context of statistical models whose main purpose is either the prediction of future outcomes or the testing of hypotheses, on the basis of other related information. R-squared equals one minus the sum of squares of residules devided by the total sum of squares.
+- Adjusted R-squared could be better than R-squared because of its attempt to account for the phenomenon of the R-squared automatically and spuriously increasing when extra explanatory variables are added to the model.
+- AIC could also be better than R-squared because it penalizes the inclusion of additional variables to a model.
