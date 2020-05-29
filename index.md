@@ -47,5 +47,10 @@ This will cover data science interview questions from "120 Data Science intervie
 ### Q [Product Metrics] What would be good metrics of success for an advertising-driven consumer product? (Buzzfeed, YouTube, Google Search, etc.) A service-driven consumer product? (Uber, Flickr, Venmo, etc.)
 
 - Pageviews, daily actives, CTR (Click-Through Rate), & CPC (Cost Per Click) are good metrics of success for an advertising-driven consumer product
-- Number of purchase and conversion rate are good metrics of success for a service-driven product
+- Number of purchase & conversion rate are good metrics of success for a service-driven product
+
+### Q [Product Metrics] What would be good metrics of success for a productivity tool? (Evernote, Asana, Google Docs, etc.) A MOOC? (edX, Coursera, Udacity, etc.)
+
+- Daily actives, & conversion rate are good metrics of success for a productivity tool
+- Number of purchase, conversion rate, & completion rate are good metrics of success for a MOOC
 
