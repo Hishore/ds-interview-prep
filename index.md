@@ -73,3 +73,8 @@ This will cover data science interview questions from "120 Data Science intervie
   - LTV (Life Time Value)
 - Premium subscriptions
   - subscription rate
+
+### Q [Product Metrics] What would be good metrics of success for a consumer product that relies heavily on engagement and interaction? (Snapchat, Pinterest, Facebook, etc.) A messaging product? (GroupMe, Hangouts, Snapchat, etc.)
+
+- Daily/monthly actives, daily/monthly number of: content publishes per active user, shares per active user (or similar depending on the product), likes per active user (or similar depending on the product) would be good metrics for a consumer product that relies heavily on engagement and interaction.
+- Daily/monthly actives, daily/monthly number of messages per active user would be good metrics for a messaging product.
