@@ -78,3 +78,8 @@ This will cover data science interview questions from "120 Data Science intervie
 
 - Daily/monthly actives, daily/monthly number of: content publishes per active user, shares per active user (or similar depending on the product), likes per active user (or similar depending on the product) would be good metrics for a consumer product that relies heavily on engagement and interaction.
 - Daily/monthly actives, daily/monthly number of messages per active user would be good metrics for a messaging product.
+
+### Q [Product Metrics] What would be good metrics of success for a product that offered in-app purchases? (Zynga, Angry Birds, other gaming apps)
+
+- Conversion rate (active to purchasing users), number of purchases, revenue per user, revenue per purchasing user would be good metrics of success for a product that offered in-app purchases.
+
