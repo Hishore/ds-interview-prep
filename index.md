@@ -81,5 +81,9 @@ This will cover data science interview questions from "120 Data Science intervie
 
 ### Q [Product Metrics] What would be good metrics of success for a product that offered in-app purchases? (Zynga, Angry Birds, other gaming apps)
 
-- Conversion rate (active to purchasing users), number of purchases, revenue per user, revenue per purchasing user would be good metrics of success for a product that offered in-app purchases.
+- Conversion rate (active to purchasing users), number of purchases, revenue per: user/active user/purchasing user would be good metrics of success for a product that offered in-app purchases.
+
+### Q [Product Metrics] A certain metric is violating your expectations by going down or up more than you expect. How would you try to identify the cause of the change?
+
+- I would breakdown the metric into what consists them and find where the change is. For instance, if it's a ratio, then break it down into numerator and denominator and find which one is the main cause of the change. Then further breakdown that basic metric by channel, user cluster, etc., and relate them with any campaigns, feature launch, or changes in user behaviors in that segment.
 
