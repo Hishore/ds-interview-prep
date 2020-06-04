@@ -96,3 +96,9 @@ This will cover data science interview questions from "120 Data Science intervie
 ### Q [Product Metrics] You’re a restaurant and are approached by Groupon to run a deal. What data would you ask from them in order to determine whether or not to do the deal?
 
 - For similar reasturants (same neighborhood, same price range, similar ratings, same cuisine if possible) that did deals before: weekly profit pre & during & post deal
+
+### Q [Product Metrics] You are tasked with improving the efficiency of a subway system. Where would you start?
+
+- I would start with defining efficiency, it would be some sort of comparison of below metrics
+  - number of customers by hour by station
+  - capacity of trains arriving by hour by station
