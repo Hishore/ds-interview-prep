@@ -87,3 +87,8 @@ This will cover data science interview questions from "120 Data Science intervie
 
 - I would breakdown the metric into what consists them and find where the change is. For instance, if it's a ratio, then break it down into numerator and denominator and find which one is the main cause of the change. Then further breakdown that basic metric by channel, user cluster, etc., and relate them with any campaigns, feature launch, or changes in user behaviors in that segment.
 
+### Q [Product Metrics] Growth for total number of tweets sent has been slow this month. What data would you look at to determine the cause of the problem?
+
+- I would first look at growth of users/active users for the same month, if that hassn't seen the same level of slowdown, then look at historical data, especially historical data at the same month last few years to see if it's seasonal.
+- Secondly, I would breakdown the tweets by user cluster, topic, geography, etc. to see if any of those segments were driving the slowdown.
+- Lastly, I would look at external data, such as economic data, political data, data on existing competitors or the emergence of any new competitors.
