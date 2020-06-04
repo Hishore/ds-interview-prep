@@ -92,3 +92,7 @@ This will cover data science interview questions from "120 Data Science intervie
 - I would first look at growth of users/active users for the same month, if that hassn't seen the same level of slowdown, then look at historical data, especially historical data at the same month last few years to see if it's seasonal.
 - Secondly, I would breakdown the tweets by user cluster, topic, geography, etc. to see if any of those segments were driving the slowdown.
 - Lastly, I would look at external data, such as economic data, political data, data on existing competitors or the emergence of any new competitors.
+
+### Q [Product Metrics] You’re a restaurant and are approached by Groupon to run a deal. What data would you ask from them in order to determine whether or not to do the deal?
+
+- For similar reasturants (same neighborhood, same price range, similar ratings, same cuisine if possible) that did deals before: weekly profit pre & during & post deal
